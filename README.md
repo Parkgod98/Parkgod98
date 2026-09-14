@@ -1,7 +1,7 @@
 # 박현성
 
 **Software Engineer**  
-`C/C++` `Python` `Embedded` `Edge AI` `AI Agent`
+`C/C++` `Python` `Embedded` `Edge AI` `AI Agent` `LLM`
 
 새로운 기술을 배우고 직접 써보는 것을 좋아합니다.  
 꾸준히 공부하고 직접 만들면서 경험을 넓혀가고 있습니다.
