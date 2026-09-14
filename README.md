@@ -14,6 +14,9 @@
 
 ## Projects
 
+- **[Hamster Algorithm](https://github.com/Parkgod98/Hamster_Algorithm)** — GitHub 풀이 기록을 자동 수집해 스터디 규칙에 따라 인증·미루기·벌금을 관리하는 알고리즘 스터디 PWA  
+  `Next.js` `GitHub App` `Webhook` `Supabase` `PWA`
+
 - **[MyScheduler](https://github.com/Parkgod98/MyScheduler)** — 자연어로 여러 일정을 한 번에 등록하고 여러 기기에서 동기화하는 개인 일정 관리 PWA  
   `Next.js` `Supabase` `PWA`
 
