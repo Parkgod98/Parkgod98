@@ -6,6 +6,12 @@
 문제를 이해하고, 실제 장비나 서비스에서 돌아가는 형태까지 만드는 개발을 좋아합니다.  
 최근에는 AI를 기능으로 붙이는 것뿐 아니라 개발 과정 자체에 활용하는 방법도 함께 고민하고 있습니다.
 
+## Skills
+
+<div align="center">
+  <img src="./profile/skills.svg" width="640" alt="Technical Skills" />
+</div>
+
 ## Projects
 
 - **[MyScheduler](https://github.com/Parkgod98/MyScheduler)** — 자연어로 여러 일정을 한 번에 등록하고 여러 기기에서 동기화하는 개인 일정 관리 PWA  
@@ -29,7 +35,3 @@
 
 - **RF 인증시험 자동화 AI Agent** — 자연어 요청부터 계측기 제어와 결과 검증까지 연결해 약 **75분 → 3분**으로 단축
 - **통신 규제정보 Agentic RAG** — 하이브리드 검색과 리랭킹, 원문 근거 연결로 탐색 시간을 약 **1분 20초 → 22초**로 단축
-
-<div align="center">
-  <img src="./profile/stats.svg" height="150" alt="GitHub Stats" />
-</div>
