@@ -61,7 +61,7 @@
   <rect x="312" y="224" width="54" height="18" rx="5" class="cell filled"/>
   <rect x="374" y="224" width="54" height="18" rx="5" class="cell filled"/>
   <rect x="436" y="224" width="54" height="18" rx="5" class="cell filled"/>
-  <rect x="498" y="224" width="54" height="18" rx="5" class="cell filled"/>
+  <rect x="498" y="224" width="54" height="18" rx="5" class="cell"/>
 
   <text x="20" y="278" class="label">AI Agent / RAG</text>
   <rect x="250" y="262" width="54" height="18" rx="5" class="cell filled"/>
