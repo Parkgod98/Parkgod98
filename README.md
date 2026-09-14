@@ -31,5 +31,5 @@
 - **통신 규제정보 Agentic RAG** — 하이브리드 검색과 리랭킹, 원문 근거 연결로 탐색 시간을 약 **1분 20초 → 22초**로 단축
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parkgod98&show_icons=true&hide_border=true&hide_title=true" height="150" alt="GitHub Stats" />
+  <img src="./profile/stats.svg" height="150" alt="GitHub Stats" />
 </div>
