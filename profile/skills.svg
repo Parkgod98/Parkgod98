@@ -1,0 +1,72 @@
+<svg width="640" height="310" viewBox="0 0 640 310" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Technical Skills</title>
+  <desc id="desc">박현성의 프로젝트 및 업무 경험 기반 기술 숙련도</desc>
+  <style>
+    :root {
+      --text: #24292f;
+      --muted: #57606a;
+      --border: #d0d7de;
+      --empty: #f6f8fa;
+      --fill: #2f81f7;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --text: #f0f6fc;
+        --muted: #8b949e;
+        --border: #30363d;
+        --empty: #21262d;
+        --fill: #58a6ff;
+      }
+    }
+    .title { font: 600 20px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: var(--text); }
+    .sub { font: 400 12px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: var(--muted); }
+    .label { font: 600 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: var(--text); }
+    .cell { stroke: var(--border); stroke-width: 1; fill: var(--empty); }
+    .filled { fill: var(--fill); stroke: var(--fill); }
+  </style>
+
+  <text x="20" y="30" class="title">Technical Skills</text>
+  <text x="20" y="50" class="sub">프로젝트 · 업무 경험 기준</text>
+
+  <text x="20" y="88" class="label">C++</text>
+  <rect x="250" y="72" width="54" height="18" rx="5" class="cell filled"/>
+  <rect x="312" y="72" width="54" height="18" rx="5" class="cell filled"/>
+  <rect x="374" y="72" width="54" height="18" rx="5" class="cell filled"/>
+  <rect x="436" y="72" width="54" height="18" rx="5" class="cell filled"/>
+  <rect x="498" y="72" width="54" height="18" rx="5" class="cell filled"/>
+
+  <text x="20" y="126" class="label">Python</text>
+  <rect x="250" y="110" width="54" height="18" rx="5" class="cell filled"/>
+  <rect x="312" y="110" width="54" height="18" rx="5" class="cell filled"/>
+  <rect x="374" y="110" width="54" height="18" rx="5" class="cell filled"/>
+  <rect x="436" y="110" width="54" height="18" rx="5" class="cell filled"/>
+  <rect x="498" y="110" width="54" height="18" rx="5" class="cell filled"/>
+
+  <text x="20" y="164" class="label">C</text>
+  <rect x="250" y="148" width="54" height="18" rx="5" class="cell filled"/>
+  <rect x="312" y="148" width="54" height="18" rx="5" class="cell filled"/>
+  <rect x="374" y="148" width="54" height="18" rx="5" class="cell filled"/>
+  <rect x="436" y="148" width="54" height="18" rx="5" class="cell filled"/>
+  <rect x="498" y="148" width="54" height="18" rx="5" class="cell"/>
+
+  <text x="20" y="202" class="label">Linux / Embedded</text>
+  <rect x="250" y="186" width="54" height="18" rx="5" class="cell filled"/>
+  <rect x="312" y="186" width="54" height="18" rx="5" class="cell filled"/>
+  <rect x="374" y="186" width="54" height="18" rx="5" class="cell filled"/>
+  <rect x="436" y="186" width="54" height="18" rx="5" class="cell filled"/>
+  <rect x="498" y="186" width="54" height="18" rx="5" class="cell"/>
+
+  <text x="20" y="240" class="label">AI Agent / RAG</text>
+  <rect x="250" y="224" width="54" height="18" rx="5" class="cell filled"/>
+  <rect x="312" y="224" width="54" height="18" rx="5" class="cell filled"/>
+  <rect x="374" y="224" width="54" height="18" rx="5" class="cell filled"/>
+  <rect x="436" y="224" width="54" height="18" rx="5" class="cell filled"/>
+  <rect x="498" y="224" width="54" height="18" rx="5" class="cell filled"/>
+
+  <text x="20" y="278" class="label">TypeScript / Next.js</text>
+  <rect x="250" y="262" width="54" height="18" rx="5" class="cell filled"/>
+  <rect x="312" y="262" width="54" height="18" rx="5" class="cell filled"/>
+  <rect x="374" y="262" width="54" height="18" rx="5" class="cell filled"/>
+  <rect x="436" y="262" width="54" height="18" rx="5" class="cell"/>
+  <rect x="498" y="262" width="54" height="18" rx="5" class="cell"/>
+</svg>
